@@ -1,2 +1,2 @@
 # CWave
-A C++ Class to read wav file
+A C++ Class to read wave file (files with *.wav)
